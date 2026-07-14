@@ -14,9 +14,9 @@ status-website:
   cname: status.bizapps.pro
   #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "**OT Tech Status**"
+  introMessage: Monitor the real-time availability, performance, and uptime of OT Tech applications and services. This status page provides live incident updates, maintenance notifications, and historical uptime metrics to keep you informed about the health of our platforms.
   #navbar:
   #  - title: Status
   #    href: /
