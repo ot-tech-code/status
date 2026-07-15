@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.bizapps.pro
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/ot-tech-code/status/master/assets/OT-Logo.png
   name: Status
   introTitle: "**OT Tech Status**"
   introMessage: Monitor the real-time availability, performance, and uptime of OT Tech applications and services. This status page provides live incident updates, maintenance notifications, and historical uptime metrics to keep you informed about the health of our platforms.
