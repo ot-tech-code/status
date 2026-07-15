@@ -9,7 +9,8 @@ sites:
     url: https://bizapps.pro/
   - name : RSA
     url: https://rsa.bizapps.pro/api/health
-
+assignees:
+  - subran
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
