@@ -1,7 +1,7 @@
-url: https://rsa.bizapps.pro/api/health
+url: $ENDPOINT_RSA
 status: up
 code: 200
-responseTime: 780
-lastUpdated: 2026-07-15T15:53:34.009Z
+responseTime: 455
+lastUpdated: 2026-07-15T15:55:37.676Z
 startTime: 2026-07-15T15:40:37.378Z
 generator: Upptime <https://github.com/upptime/upptime>
